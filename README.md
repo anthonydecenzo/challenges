@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my repository of useless things
 
-You can use the [editor on GitHub](https://github.com/anthonydecenzo/challenges/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Code in this repository typically solves challenges found on various websites such as reddit, hackerrank, leetcode, and more. This primarily serves as a way to store my solutions for later use and for others to possibly learn from or use.
+### Languages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most challenges will be primarily coded in C, C#, or Java. However, if a challenge specifies a language other than the aforementioned, it will be used.
 
-### Markdown
+``` Challenges
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Subfactorial
+- The code supports subfactorial calculations for single digits. Ihis can easily be fixed, but I'm too lazy and the solution works. 
+2. Ducci Sequence
+- Calculates the Ducci sequence for an array. The code is specifically for a challenge where the target was to count how many steps would be required to reach a 0-tuple array (where all values in the array are zero).
 
 ### Jekyll Themes
 
